@@ -1287,3 +1287,16 @@ section {
 #footer .credits a {
   color: #34b7a7;
 }
+
+#portfolio, #contact{
+  min-height: 87vh;
+}
+
+#hero .container{
+  background-color: rgba(255,255,255,.8);
+  padding-top: 15px;
+  max-width: 500px;
+  padding-bottom: 30px;
+  border-radius: 30px;
+
+}
